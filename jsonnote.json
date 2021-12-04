@@ -1,0 +1,50 @@
+[
+    {
+        "park_num":"1",
+        "location_name":"Sharjah Desert Park",
+        "latitude":"25.284129099585606",
+        "longitude":"55.69712023806279",
+        "time":"09:00AM – 05:30PM",
+        "price_of_ticket":"15.00",
+        "discount":"0",
+        "tax":"5",
+        "phone":"06 531 1999",
+        "description":"Family-oriented visitor center with a petting zoo, botanical gardens & natural history museum."
+    },
+    {
+        "park_num":"2",
+        "location_name":"Sharjah National Park",
+        "latitude":"25.313598962826045",
+        "longitude":"55.537808269319385",
+        "time":"10:00AM – 10:00PM",
+        "price_of_ticket":"2.00",
+        "discount":"0",
+        "tax":"5",
+        "phone":"06 545 8996",
+        "description":"Sharjah National Park is a park in Sharjah, the United Arab Emirates. The park is the largest in Sharjah, covering approximately 630,000 m²."
+    },
+    {
+        "park_num":"3",
+        "location_name":"Al Montazah Parks",
+        "latitude":"25.343587569762644",
+        "longitude":"55.38020548465968",
+        "time":"08:00AM – 10:00PM",
+        "price_of_ticket":"15.00",
+        "discount":"0",
+        "tax":"5",
+        "phone":"06 511 0555",
+        "description":"Popular water park offering a variety of rides, slides & pools, plus a cafe & Ferris wheel."
+    },
+    {
+        "park_num":"4",
+        "location_name":"Al Majaz Splash Park",
+        "latitude":"25.329029871750148",
+        "longitude":"55.38908596136124",
+        "time":"Open 24 hours",
+        "price_of_ticket":"30.00",
+        "discount":"0",
+        "tax":"5",
+        "phone":"06 511 7000",
+        "description":"Majaz Waterfront offers a variety of fun-filled activities, recreational facilities, games, competitions and art workshops specifically tailored for children."
+    }
+]
