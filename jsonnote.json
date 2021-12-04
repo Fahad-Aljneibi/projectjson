@@ -18,7 +18,7 @@
         "longitude":"55.537808269319385",
         "time":"10:00AM – 10:00PM",
         "price_of_ticket":"2.00",
-        "discount":"0",
+        "discount":"10",
         "tax":"5",
         "phone":"06 545 8996",
         "description":"Sharjah National Park is a park in Sharjah, the United Arab Emirates. The park is the largest in Sharjah, covering approximately 630,000 m²."
@@ -30,7 +30,7 @@
         "longitude":"55.38020548465968",
         "time":"08:00AM – 10:00PM",
         "price_of_ticket":"15.00",
-        "discount":"0",
+        "discount":"5",
         "tax":"5",
         "phone":"06 511 0555",
         "description":"Popular water park offering a variety of rides, slides & pools, plus a cafe & Ferris wheel."
@@ -42,7 +42,7 @@
         "longitude":"55.38908596136124",
         "time":"Open 24 hours",
         "price_of_ticket":"30.00",
-        "discount":"0",
+        "discount":"15",
         "tax":"5",
         "phone":"06 511 7000",
         "description":"Majaz Waterfront offers a variety of fun-filled activities, recreational facilities, games, competitions and art workshops specifically tailored for children."
